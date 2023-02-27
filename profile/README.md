@@ -4,6 +4,8 @@
 
 Computer science group K18, Thai Nguyen University of Information and Communication Technology.
 
+Made for learning and reporting purposes.
+
 ## Members
 
 - Tran Thanh (@ging-dev)
