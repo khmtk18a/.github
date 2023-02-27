@@ -1,2 +1,0 @@
-# .github
-Home of Team
